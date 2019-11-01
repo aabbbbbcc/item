@@ -10,6 +10,16 @@
 }
 .box h1{
 	text-align: center;
+	line-height:100px;
+}
+.box h2{
+	color: honeydew;
+	text-align: center;
+	line-height: 30px;
+}
+.imgs{
+	margin: 0 auto;
+	width: 1200px;
 }
 img{
 	width: 1200px;
